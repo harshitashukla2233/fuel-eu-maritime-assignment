@@ -1,6 +1,6 @@
 # fuel-eu-maritime-assignment
 
-\# ⚓ FuelEU Maritime Assignment
+\# FuelEU Maritime Assignment
 
 
 
@@ -158,11 +158,7 @@ GET /api/routes
 
 Response:
 
-
-
 json
-
-Copy code
 
 \[
 
@@ -194,12 +190,7 @@ POST /api/pools
 
 Request:
 
-
-
 json
-
-Copy code
-
 {
 
 &nbsp; "year": 2024,
@@ -213,8 +204,6 @@ Response:
 
 
 json
-
-Copy code
 
 {
 
@@ -242,16 +231,12 @@ API Testing	Postman / Thunder Client
 
 📸 Screenshots
 
-!\[MRT Screenshot](images/mrt1.png)
+<img width="1027" height="411" alt="mrt1" src="https://github.com/user-attachments/assets/f2ce11a0-b4c7-4e6b-a48e-12d23b46df5b" />
 
-!\[MRT Screenshot](images/mrt2.png)
-
-!\[MRT Screenshot](images/mrt3.png)
+<img width="985" height="398" alt="mrt2" src="https://github.com/user-attachments/assets/33bb328a-5339-4b13-baec-77af4fa1be6b" />
 
 
-
-
-
+<img width="699" height="332" alt="mrt3" src="https://github.com/user-attachments/assets/96d1ad9c-870b-4a83-9745-c80df2f3ff2f" />
 
 
 🧠 Key Features
