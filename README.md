@@ -228,7 +228,7 @@ Copy code
 
 Layer	Technology
 
-Frontend	React, TypeScript, Vite
+Frontend React, TypeScript, Vite
 
 Backend	Node.js, Express, TypeScript
 
@@ -240,23 +240,17 @@ API Testing	Postman / Thunder Client
 
 
 
-📸 Screenshots (for Submission)
+📸 Screenshots
 
-🖥️ Running Frontend
+!\[MRT Screenshot](images/mrt1.png)
 
-Insert screenshot of http://localhost:5173 here
+!\[MRT Screenshot](images/mrt2.png)
 
-
-
-⚙️ Running Backend
-
-Insert screenshot of terminal showing “Server running on port 3000”
+!\[MRT Screenshot](images/mrt3.png)
 
 
 
-🌍 API Response
 
-Insert screenshot of JSON response from http://localhost:3000/api/routes
 
 
 
