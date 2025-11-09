@@ -237,9 +237,9 @@ API Testing	Postman / Thunder Client
 
 <img width="985" height="398" alt="mrt2" src="https://github.com/user-attachments/assets/33bb328a-5339-4b13-baec-77af4fa1be6b" />
 
+![dev1](https://github.com/user-attachments/assets/300bbaa4-c314-4cce-9aea-5bd95b0deb4a)
 
-<img width="699" height="332" alt="mrt3" src="https://github.com/user-attachments/assets/96d1ad9c-870b-4a83-9745-c80df2f3ff2f" />
-
+![dev2](https://github.com/user-attachments/assets/801a4b85-e6ab-4ee0-9e57-ce447fde0db9)
 
 🧠 Key Features
 
