@@ -61,6 +61,8 @@ fuel-eu-maritime-assignment/
 │
 
 └── README.md
+└── REFLECTION.md
+└── AGENT_WORKFLOW.md
 
 
 
